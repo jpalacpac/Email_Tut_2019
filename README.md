@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter-Kit-2019
 
 
@@ -33,3 +34,6 @@ On the root of this project run on your terminal (if you want you can do this wi
 ```bash
   npm run watch
 ```
+=======
+# Email_Tut_2019
+>>>>>>> d8ae12f8fc4fab7afac613f4094e6f543499823d
